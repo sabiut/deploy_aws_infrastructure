@@ -10,3 +10,4 @@ When you run the app it will generate a file containing your key pair in the roo
 3) setup the gateway
 4) Create security group
 5) Launched two instance one in public and another in private network
+6) Generate Key Pair
