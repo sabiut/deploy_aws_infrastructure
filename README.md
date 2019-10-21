@@ -6,7 +6,7 @@ When you run the app it will generate a file containing your key pair in the roo
 
 #what the application does
 1) create a VPC with a private and public network on different availability Zones
-2) Backet
+2) Create S3 Backet
 3) setup the gateway
 4) Create security group
 5) Launched two instance one in public and another in private network
